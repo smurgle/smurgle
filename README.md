@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tcheran
+- 👋 Hi, I’m @smurgle
 - 👀 I’m interested in data analysis, data science, highly expressive programming languages (Python, Nim, ...)
 
 <!---
